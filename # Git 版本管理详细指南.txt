@@ -116,6 +116,9 @@ git checkout -- 文件名
 git branch 新分支名
 ```
 
+第一次绑定分支
+git push --set-upstream origin "分支名"
+
 ### 7.2 切换分支
 
 ```bash
